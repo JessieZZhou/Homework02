@@ -1,11 +1,10 @@
 
 body{
     font-family: "Lucida Grande", sans-serif;
-    text
 }
 
 header{
-    background-color: black;
+    background-color: #000000;
 }
 
 div {
@@ -16,8 +15,8 @@ div {
 h1 {
     display: block;
     font-size: 64px;
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
     text-align: center;
 }
 
@@ -40,8 +39,8 @@ p{
 }
 
 #intro{
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
 }
 #red{
     background-color: #FF0000;
@@ -50,27 +49,27 @@ p{
 }
 #blue{
     background-color: #0000FF;
-    color: white;
+    color: #ffffff;
 }
 #yellow{
     background-color: #FFFF00;
     text-align: right;
 }
 #yellow h2{
-    color: black;
+    color: #000000;
     text-shadow: 5px 5px 2px #c7e2c7;
 }
 
 #green{
     background-color: #008000;
     text-align: left;
-    color: white
+    color: #ffffff
 }
 
 footer{
-    background-color: black;
+    background-color: #000000;
     text-align: right;
-    color: white;
+    color: #ffffff;
 }
 
 footer p{
