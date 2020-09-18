@@ -1,6 +1,7 @@
 
 body{
     font-family: "Lucida Grande", sans-serif;
+    color: #ffffff
 }
 
 header{
@@ -54,6 +55,7 @@ p{
 #yellow{
     background-color: #FFFF00;
     text-align: right;
+    color: #000000;
 }
 #yellow h2{
     color: #000000;
